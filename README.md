@@ -1,2 +1,2 @@
 # Tree_ML
-The project about predicting quality of a tree by the alignment.
+The project about predicting the quality of a tree by the alignment.
